@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# import submodules from github
+# import/update submodules from github
 #
 git_parent="https://github.com/holepunchto"
 
@@ -11,3 +11,4 @@ while read subrepo; do
 	fi
 done <repositories.holepunchto.github.com
 
+git submodule update --recursive
