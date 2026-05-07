@@ -1,0 +1,57 @@
+[submodule "bare"]
+	path = bare
+	url = https://github.com/holepunchto/bare
+[submodule "blind-pairing-core"]
+	path = blind-pairing-core
+	url = https://github.com/holepunchto/blind-pairing-core
+[submodule "hyperbeam"]
+	path = hyperbeam
+	url = https://github.com/holepunchto/hyperbeam
+[submodule "hyperbee2"]
+	path = hyperbee2
+	url = https://github.com/holepunchto/hyperbee2
+[submodule "hyperblobs"]
+	path = hyperblobs
+	url = https://github.com/holepunchto/hyperblobs
+[submodule "hypercore"]
+	path = hypercore
+	url = https://github.com/holepunchto/hypercore
+[submodule "hypercore-blob-server"]
+	path = hypercore-blob-server
+	url = https://github.com/holepunchto/hypercore-blob-server
+[submodule "hypercore-proof-queue"]
+	path = hypercore-proof-queue
+	url = https://github.com/holepunchto/hypercore-proof-queue
+[submodule "hyperdb"]
+	path = hyperdb
+	url = https://github.com/holepunchto/hyperdb
+[submodule "hyperdht"]
+	path = hyperdht
+	url = https://github.com/holepunchto/hyperdht
+[submodule "hyperdht-address"]
+	path = hyperdht-address
+	url = https://github.com/holepunchto/hyperdht-address
+[submodule "hyperdrive"]
+	path = hyperdrive
+	url = https://github.com/holepunchto/hyperdrive
+[submodule "hyperschema-swift"]
+	path = hyperschema-swift
+	url = https://github.com/holepunchto/hyperschema-swift
+[submodule "hyperswarm"]
+	path = hyperswarm
+	url = https://github.com/holepunchto/hyperswarm
+[submodule "keet-appling"]
+	path = keet-appling
+	url = https://github.com/holepunchto/keet-appling
+[submodule "keet-appling-next"]
+	path = keet-appling-next
+	url = https://github.com/holepunchto/keet-appling-next
+[submodule "keet-identity-key"]
+	path = keet-identity-key
+	url = https://github.com/holepunchto/keet-identity-key
+[submodule "keet-mobile-releases"]
+	path = keet-mobile-releases
+	url = https://github.com/holepunchto/keet-mobile-releases
+[submodule "keet-prefs"]
+	path = keet-prefs
+	url = https://github.com/holepunchto/keet-prefs
